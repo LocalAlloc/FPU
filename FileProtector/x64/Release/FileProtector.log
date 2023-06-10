@@ -1,6 +1,0 @@
-﻿  Building 'FileProtector' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
-  mini_filter.cpp
-  FileProtector.vcxproj -> D:\source\repos\FileProtector\x64\Release\FileProtector.sys
-  Done Adding Additional Store
-  Successfully signed: D:\source\repos\FileProtector\x64\Release\FileProtector.sys
-  
